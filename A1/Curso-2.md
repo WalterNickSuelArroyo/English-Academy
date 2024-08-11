@@ -266,26 +266,303 @@ Por ejemplo, la oración comió arroz se podría poner como:
 
 # 11. ¿Como usar isn't y aren't?
 
+![](../imagenes/68.PNG)
+
+![](../imagenes/69.PNG)
+
 # 12. Preguntas usando "who"
 
-# 13. Adjetivos posesibvos en ingles
+El arte de plantear preguntas eficaces es una herramienta poderosa en la comunicación y en el aprendizaje de idiomas. En particular, saber cómo y cuándo utilizar "¿Who?", resulta esencial al buscar información específica sobre personas. Veámos la estructura y uso de who. 
+
+"Who" en inglés es un pronombre interrogativo que se utiliza para referirse a personas específicas o para preguntar sobre la identidad de alguien en particular. 
+
+*¿Cómo se utiliza "who" al hacer preguntas sobre personas?*
+
+La palabra "who" se usa para hacer preguntas referentes a personas, y es importante recordar que no se usa para lugares o cosas. En inglés, "who" se combina frecuentemente con el verbo "to be" para formar declaraciones interrogativas.
+
+Cuando quieres preguntar acerca de la identidad de una persona, puedes usar la frase "Who is" o su forma contraída "Who's". Para formar "Who's", simplemente elimina la "i" de "is" y añade un apóstrofe. La estructura es sencilla:
+
+    Who is this? – ¿Quién es este?
+    Who is a professor? – ¿Quién es profesor?
+
+*¿Por qué es importante usar correctamente "who is"?*
+
+Usar adecuadamente "who is" en inglés es esencial para obtener la información deseada sobre una persona sin causar confusión. Además, al hacer preguntas correctamente, se demuestra dominio del idioma, lo que puede ser beneficioso en contextos tanto personales como profesionales. "who is" es esencial para obtener información sobre la identidad de personas, formular preguntas específicas y construir oraciones relativas que agreguen detalles importantes a la comunicación en inglés.
+
+Ahora veamos los siguientes ejemplos con "who is"
+
+    Who is the author of this book?
+
+    Do you know who is coming to the party tonight?
+
+    I'm not sure who is in charge of the project now.
+
+*¿Cuál es la forma contraída de "who is" y cómo se forma?*
+
+La forma contraída de "who is" es "who's". Esta contracción se forma quitando la letra "i" de "is" y reemplazándola con un apóstrofe. Por ejemplo:
+
+    Who's 41? – ¿Quién tiene 41 años?
+
+Aprendamos con los siguientes ejemplos usando "who's"
+
+    Who's going to the party tonight?
+
+    Do you know who's in charge of the project?
+
+    Who's been to the new restaurant downtown?
+
+Al aprender las contracciones, mejoras la fluidez de tu inglés hablado y escrito, haciéndolo sonar más natural y cercano al habla cotidiana.
+
+*¿Cómo practicar las declaraciones interrogativas en inglés?*
+
+Una excelente manera de practicar las declaraciones interrogativas es participar en paneles de discusión o responder a los comentarios de amigos. Por ejemplo:
+
+    Alguien pregunta: Who is Andrew? – ¿Quién es Andrew?
+    Alguien responde: Andrew is a business person – Andrew es una persona de negocios.
+
+Practicar con ejemplos reales y en contextos comunicativos ayuda a internalizar el uso de las estructuras gramaticales y las hace parte de tu habilidad lingüística natural.
+
+Recuerda, la clave para el éxito en el aprendizaje de un nuevo idioma es la práctica constante y el uso activo de lo aprendido. ¡Mantén alta tu motivación y sigue explorando el vasto mundo del inglés con cada oportunidad que se presente!
+
+![](../imagenes/70.PNG)
+
+![](../imagenes/71.PNG)
+
+Solucion de tarea:
+
+- Who is David?: David is an actor
+- Who is Clara: Clara is a Software Engineer
+- Who is Maria: Maria is my friend
+- Who is Jon?: Jon is an architect
+- Who is Irene?: Irene is a dentist
+- Who is Andrew?: Andrew is a firefighter
+
+# 13. Adjetivos posesivos en ingles
+
+![](../imagenes/72.PNG)
+
+![](../imagenes/73.PNG)
+
+![](../imagenes/74.PNG)
+
+![](../imagenes/75.PNG)
+
+Solucion del ejercicio:
+
+- She is Helena. Her name is Helena
+- He is Jess. His name is Jess
+- He is John. His name is Jhon
+
+Posesive Adjetive
+
+    I = My
+    You= Your
+    He= His.
+    She= Her.
+    It= Its.
+    We= Our,
+    They= Their.
+
+Podemos practicar mas en este pagina: https://agendaweb.org/grammar/possessive-exercises.html
 
 # 14. Saludos y despedidas en ingles
 
+![](../imagenes/76.PNG)
+
+![](../imagenes/77.PNG)
+
+![](../imagenes/78.PNG)
+
 # Quiz Module 3
+
+![](../imagenes/79.PNG)
+
+![](../imagenes/80.PNG)
+
+![](../imagenes/81.PNG)
+
+![](../imagenes/82.PNG)
+
+![](../imagenes/83.PNG)
 
 # 15. ¿Como hacer preguntas usando what's?
 
+![](../imagenes/84.PNG)
+
+![](../imagenes/85.PNG)
+
+![](../imagenes/86.PNG)
+
+Solucion del ejercicio:
+
+- What's your favorite color?: My favorite color is blue
+- What is your profession?: My profession is a software engineer(I'm a software engineer)
+- What is your age?: My age is 31(I'm 31 years old)
+
 # 16. Hobies en ingles
+
+![](../imagenes/87.PNG)
+
+![](../imagenes/88.PNG)
+
+Solucion al ejercicio:
+
+My hobbies are programming, computer building and fishing
+
+Reading - Lectura
+Cooking - Cocinar
+Gardening - Jardinería
+Painting - Pintura
+Playing musical instruments - Tocar instrumentos musicales
+Hiking - Senderismo
+Photography - Fotografía
+Writing - Escritura
+Cycling - Ciclismo
+Cooking - Cocina
+Knitting - Tejer
+Yoga - Yoga
+Fishing - Pesca
+Birdwatching - Observación de aves
+Sculpting - Escultura
+Playing video games - Jugar videojuegos
+Dancing - Bailar
+Traveling - Viajar
+Collecting - Coleccionar
+DIY projects - Proyectos de bricolaje
+Programming - Programacion
+Computer Building - Ensamblaje de Computadoras
 
 # 17. ¿Como hacer preguntas basicas en ingles?
 
+![](../imagenes/89.PNG)
+
+![](../imagenes/90.PNG)
+
+![](../imagenes/91.PNG)
+
+![](../imagenes/92.PNG)
+
+Solucion del ejercicio:
+
+How old is your calculator?
+How old is your table?
+What is your last name?
+What is a person?
+What are your plans for the weekend?
+What are your  favorite programming languages?
+
 # 18. Dias de la semana en ingles
+
+Aprender los días de la semana es un paso fundamental para manejar con eficacia nuestro calendario y compromisos diarios. Desde planificar reuniones hasta disfrutar del merecido descanso, cada día tiene su importancia. Exploraremos cómo puedes aprender y practicar los días de la semana en inglés, ¡una habilidad esencial que te permitirá navegar con confianza por tu horario y comunicarte efectivamente!
+
+En el aprendizaje del idioma inglés, comprender y utilizar los días de la semana es fundamental. 🗓️ Exploraremos comenzando con los conceptos básicos y avanzando hacia detalles más específicos
+
+*¿Cuántos días tiene una semana y cuáles son?*
+
+En una semana encontramos siete días distintos, y en inglés, cada uno tiene su propio nombre. Conoceremos cada día en inglés y cómo se utilizan en contextos cotidianos. ¡Prepárate para ampliar tu vocabulario y mejorar tu capacidad de comunicación en inglés!🗓️✨:
+
+    Monday (lunes)
+    Tuesday (martes)
+    Wednesday (miércoles)
+    Thursday (jueves)
+    Friday (viernes)
+    Saturday (sábado)
+    Sunday (domingo)
+
+*¿Cómo confirmar fechas usando los días de la semana?*
+
+Para confirmar una cita o reunión utilizando los días de la semana en inglés, la estructura es muy simple. Solo necesitas la frase “It’s on” seguida del día correspondiente. Por ejemplo:
+
+    Tu próxima reunión es el jueves: "It's on Thursday."
+    La celebración es el sábado: "It's on Saturday."
+
+*¿Cómo puedo practicar la identificación de los días de la semana?*
+
+Una excelente manera de afianzar el aprendizaje es practicar identificando qué día corresponde a cada cita o evento mencionado:
+
+    Si tienes una reunión, ¿cuándo es? "It is on Sunday."
+    Hay otra reunión, ¿cuándo será? "It is on Tuesday."
+    Se menciona una tercera reunión, ¿en qué día ocurre? "It is on Friday."
+
+Cada vez que te encuentres con una referencia a una fecha o evento, utiliza esta estructura para confirmar el día en inglés.
+
+*¿Qué deberías hacer para seguir practicando?*
+
+Queremos que te sientas seguro con tus nuevos conocimientos. Por eso, una buena práctica es escribir los días de la semana que corresponden a más fechas mencionadas en la plataforma de discusión o en tu diario de aprendizaje. Así, no solo reafirmarás lo aprendido, sino que también estarás listo para usar esta habilidad en contextos reales.
+
+Recuerda, trabajar con los días de la semana en inglés abrirá puertas a una comunicación más clara y eficaz en tu vida diaria y profesional.
+
+¡Practica tanto como puedas y verás lo rápido que se convierte en una segunda naturaleza! Mantén la motivación y sigue avanzando; estas pequeñas victorias en el aprendizaje del inglés son pasos gigantes hacia la fluidez. Nos vemos en la próxima.
+
+![](../imagenes/93.PNG)
+
+Solucion del ejercicio:
+
+- It´s on Thursday
+- It's on Monday
+- It's on Wednesday
+- It's on Tuesday
 
 # Quiz Module 4
 
+![](../imagenes/94.PNG)
+
+![](../imagenes/95.PNG)
+
+![](../imagenes/96.PNG)
+
+![](../imagenes/97.PNG)
+
+![](../imagenes/98.PNG)
+
 # 19. Crea tu perfil personal en ingles
+
+![](../imagenes/99.PNG)
 
 # 20. Continua practicando tu ingles
 
 # Examen
+
+![](../imagenes/100.PNG)
+
+![](../imagenes/101.PNG)
+
+![](../imagenes/102.PNG)
+
+![](../imagenes/103.PNG)
+
+![](../imagenes/104.PNG)
+
+![](../imagenes/105.PNG)
+
+![](../imagenes/106.PNG)
+
+![](../imagenes/107.PNG)
+
+![](../imagenes/108.PNG)
+
+![](../imagenes/109.PNG)
+
+![](../imagenes/110.PNG)
+
+![](../imagenes/111.PNG)
+
+![](../imagenes/112.PNG)
+
+![](../imagenes/113.PNG)
+
+![](../imagenes/114.PNG)
+
+![](../imagenes/115.PNG)
+
+![](../imagenes/116.PNG)
+
+![](../imagenes/117.PNG)
+
+![](../imagenes/118.PNG)
+
+![](../imagenes/119.PNG)
+
+![](../imagenes/120.PNG)
+
+![](../imagenes/121.PNG)
